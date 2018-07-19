@@ -1,3 +1,9 @@
+radosgw-agent (1.2.7sci8u1) scibian8; urgency=medium
+
+  * scibian8 rebuild 
+
+ -- Nicolas Meaux <nicolas-externe.meaux@edf.fr>  Thu, 19 Jul 2018 16:41:33 +0200
+
 radosgw-agent (1.2.7) stable; urgency=medium
 
   * New upstream release
