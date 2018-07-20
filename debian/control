@@ -9,6 +9,8 @@ Homepage: http://ceph.com/
 Vcs-Git: https://github.com/scibian/radosgw-agent.git
 Vcs-Browser: https://github.com/scibian/radosgw-agent
 
+
+Package: radosgw-agent
 Architecture: all
 Depends: python,
          python-argparse,
