@@ -1,3 +1,9 @@
+radosgw-agent (1.2.7-1sci9u1) scibian9; urgency=medium
+
+  * upgrade package fromat to 3.0 
+
+ -- Nicolas Meaux <nicolas-externe.meaux@edf.fr>  Wed, 01 Aug 2018 15:48:44 +0200
+
 radosgw-agent (1.2.7sci9u1) scibian9; urgency=medium
 
   * scibian9 rebuild 
